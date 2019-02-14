@@ -21,4 +21,15 @@ A keygen for Xmanager
 ```
 
   AFTER THIS ONLY INSTALL!!!!!!
-* Install Xmanager 6 Retail with code got PYTHON SCRIPTS.
+* Install Xshell Plus 6 Retail with code got PYTHON SCRIPTS.
+
+
+* Downloading
+For example, the one for Xshell Plus 6 is 
+```sh
+https://cdn.netsarang.net/9e2fa313/XshellPlus-6.0.0014.exe
+```
+then you only need to add a letter `r` before `.exe`.
+```sh
+https://cdn.netsarang.net/9e2fa313/XshellPlus-6.0.0014r.exe
+```
