@@ -9,7 +9,7 @@ A keygen for Xmanager
 * Uninstall all version Xshell, Xmanager, Xftp, Xldp and Netsarang products
 
 * Delete catalogues NETSARANG from Registry.
-  HKEY_CURRENT_USER\Software\NetSarang\
+  \HKEY_CURRENT_USER\Software\NetSarang
   
 * add to C:\Windows\System32\drivers\etc\ **hosts**
 ```json
